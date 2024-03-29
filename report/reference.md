@@ -27,6 +27,7 @@
 - Архитектура Fermi: https://www.nvidia.com/content/pdf/fermi_white_papers/nvidiafermicomputearchitecturewhitepaper.pdf
 - Архитектура первых видеокарт с NVIDIA CUDA: https://www.nvidia.com/docs/IO/55506/GeForce_GTX_200_GPU_Technical_Brief.pdf
 - Архитектура самой первой видеокарты с NVIDIA CUDA: https://www.nvidia.co.uk/content/PDF/Geforce_8800/GeForce_8800_GPU_Architecture_Technical_Brief.pdf
+- Mercury Playback: https://www.nvidia.com/docs/IO/85230/CUDA_MPE_WP-05380-001_v01.pdf 
 
 ## Неофициальные статьи
 - Высокопроизводительные вычисления, проблемы и решения: https://habr.com/ru/articles/117021/
