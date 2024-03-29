@@ -17,6 +17,6 @@
 Модель организации памяти в CUDA-совместимых GPU. Организация доступа к памяти между разными потоками. Ручная и автоматическая оптимизация операций с памятью.
 
 ## Полезные ссылки:
-- Ознакомиться с текстом выступления (todo)
-- Слайды с презентации (todo)
-- Список использованных источников (todo)
+- [Ознакомиться с текстом выступления](https://github.com/Zerumi-ITMO-Related/csa1-260324-NVIDIA-CUDA/blob/main/report/CUDA_speech.pdf)
+- [Слайды с презентации](https://github.com/Zerumi-ITMO-Related/csa1-260324-NVIDIA-CUDA/blob/main/report/CUDA_presentation.pdf)
+- [Список использованных источников](https://github.com/Zerumi-ITMO-Related/csa1-260324-NVIDIA-CUDA/blob/main/report/reference.md)
