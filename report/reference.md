@@ -1,10 +1,18 @@
 # Список использованных источников при подготовке к докладу
 
 ## Основные источники
-- Формализация модели вычислений NVIDIA CUDA для архитектуры Fermi (2011, Augsburg university)
+- [Формализация модели вычислений NVIDIA CUDA для архитектуры Fermi (2011, Augsburg university)](https://github.com/Zerumi-ITMO-Related/csa1-260324-NVIDIA-CUDA/blob/main/papers/TR_2011_14.pdf)
 - - Доступно также здесь: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/1580/file/TR_2011_14.pdf
-- Технология программирования CUDA (2017, КФУ)
+- [Технология программирования CUDA (2017, КФУ)](https://github.com/Zerumi-ITMO-Related/csa1-260324-NVIDIA-CUDA/blob/main/papers/Tumakov_D_N_i_dr_Tekhnologiya_programmirovaniya.pdf)
 - Историческая справка взята отсюда: https://www.ixbt.com/video3/cuda-1.shtml
+
+## Полезные ссылки для разработчиков
+- NVIDIA CUDA Toolkit: https://developer.nvidia.com/cuda-toolkit
+- - Документация: https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
+- Быстрое введение в программирование на GPU NVIDIA: https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/
+- - Также в виде Google Collab https://colab.research.google.com/github/NVDLI/notebooks/blob/master/even-easier-cuda/An_Even_Easier_Introduction_to_CUDA.ipynb
+- Гайд по программной модели CUDA: https://docs.nvidia.com/cuda/cuda-c-programming-guide/contents.html
+- Примеры исходных кодов на CUDA: https://github.com/NVIDIA/cuda-samples
 
 ## Официальные статьи NVIDIA
 - CUDA Refresher - введение в платформу NVIDIA CUDA: https://developer.nvidia.com/blog/tag/cuda-refresher/
@@ -34,18 +42,11 @@
 - Википедия: https://en.wikipedia.org/wiki/Tesla_(microarchitecture)
 - Устройство стримингового мультипроцессора: http://thebeardsage.com/cuda-streaming-multiprocessors/
 - SIMD: https://ru.wikipedia.org/wiki/SIMD
+- https://github.com/Zerumi-ITMO-Related/csa1-260324-NVIDIA-CUDA/blob/main/papers/CUDA%20Thread-Indexing%20Cheatsheet.pdf
 - https://www.researchgate.net/publication/285235201_GPU_Performance_Prediction_Through_Parallel_Discrete_Event_Simulation_and_Common_Sense
 - https://www.researchgate.net/publication/220766505_Accelerating_Dynamic_Time_Warping_Subsequence_Search_with_GPUs_and_FPGAs
 
 ## Лекционные слайды
 - Dark Silicon, закон Деннарда: http://csa.edu.swampbuds.me/07-08-09-processors-von-neumann-cisc-risc-stack.md#/13/3ё
-
-## Полезные ссылки для разработчиков
-- NVIDIA CUDA Toolkit: https://developer.nvidia.com/cuda-toolkit
-- - Документация: https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
-- Быстрое введение в программирование на GPU NVIDIA: https://developer.nvidia.com/blog/easy-introduction-cuda-c-and-c/
-- - Также в виде Google Collab https://colab.research.google.com/github/NVDLI/notebooks/blob/master/even-easier-cuda/An_Even_Easier_Introduction_to_CUDA.ipynb
-- Гайд по программной модели CUDA: https://docs.nvidia.com/cuda/cuda-c-programming-guide/contents.html
-- Примеры исходных кодов на CUDA: https://github.com/NVIDIA/cuda-samples
 
 В докладе использовались код-сниппеты, оформленные с помощью этого сервиса: https://carbon.now.sh/
